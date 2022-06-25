@@ -1,7 +1,9 @@
+URL - https://guyfromekb.github.io/projects/roll-shop/index.html
+
 Простой макет для практики JS  
 Данные в "магазин" приходят со стороннего сервера ( в данном случае с файла Json, который лежит в проекте)   
 Весь функционал реалзован на js  
 Делал 1 вечер, комитов нету...  
 
-URL - https://guyfromekb.github.io/roll-shop/index.html
+
 
